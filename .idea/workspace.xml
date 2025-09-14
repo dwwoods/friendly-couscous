@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Add Formatted_strings.py lesson on how to format strings using f''">
-      <change afterPath="$PROJECT_DIR$/String_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Add String_methods.py learning string methods">
+      <change afterPath="$PROJECT_DIR$/Arithmetic_Operations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <updated>1757520492394</updated>
       <workItem from="1757520505575" duration="3684000" />
       <workItem from="1757586490631" duration="1261000" />
-      <workItem from="1757846270358" duration="4218000" />
+      <workItem from="1757846270358" duration="4546000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -115,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757850250758</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add String_methods.py learning string methods">
+      <option name="closed" value="true" />
+      <created>1757877026765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757877026765</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,14 +144,15 @@
     <MESSAGE value="Add Exercise with strings and floats" />
     <MESSAGE value="Add Strings_cont.py for more string and index exercies" />
     <MESSAGE value="Add Formatted_strings.py lesson on how to format strings using f''" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Formatted_strings.py lesson on how to format strings using f''" />
+    <MESSAGE value="Add String_methods.py learning string methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add String_methods.py learning string methods" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWithMoshi$main.coverage" NAME="main Coverage Results" MODIFIED="1757541025245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercsie_Hello_World.coverage" NAME="Exercsie_Hello_World Coverage Results" MODIFIED="1757587532149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Formatted_strings.coverage" NAME="Formatted_strings Coverage Results" MODIFIED="1757847878978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1757543075102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWithMoshi$String_methods.coverage" NAME="String_methods Coverage Results" MODIFIED="1757876716714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$String_methods.coverage" NAME="String_methods Coverage Results" MODIFIED="1757876905772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1757542221256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Strings_cont.coverage" NAME="Strings_cont Coverage Results" MODIFIED="1757847406741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Inputs.coverage" NAME="Inputs Coverage Results" MODIFIED="1757543429132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
