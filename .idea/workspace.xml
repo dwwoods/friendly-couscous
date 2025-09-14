@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Initial commit Arithmetic_Operations.py">
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arithmetic_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arithmetic_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/If_statements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +40,14 @@
     "Python.Arithmetic_Operations.executor": "Run",
     "Python.Exercsie_Hello_World.executor": "Run",
     "Python.Formatted_strings.executor": "Run",
+    "Python.If_statements.executor": "Run",
     "Python.Inputs.executor": "Run",
     "Python.String_methods.executor": "Run",
     "Python.Strings_cont.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.hello_world.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.useful_number_functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -74,7 +76,7 @@
       <updated>1757520492394</updated>
       <workItem from="1757520505575" duration="3684000" />
       <workItem from="1757586490631" duration="1261000" />
-      <workItem from="1757846270358" duration="5440000" />
+      <workItem from="1757846270358" duration="6649000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -132,7 +134,39 @@
       <option name="project" value="LOCAL" />
       <updated>1757877070986</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add to Arithmetic_Operations.py floats, intergers, operators and precedence">
+      <option name="closed" value="true" />
+      <created>1757878091998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757878091998</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1757878134010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757878134010</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add import math learning about math. module">
+      <option name="closed" value="true" />
+      <created>1757878396458</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757878396458</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1757878440856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757878440856</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +190,11 @@
     <MESSAGE value="Add Formatted_strings.py lesson on how to format strings using f''" />
     <MESSAGE value="Add String_methods.py learning string methods" />
     <MESSAGE value="Initial commit Arithmetic_Operations.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit Arithmetic_Operations.py" />
+    <MESSAGE value="Add to Arithmetic_Operations.py floats, intergers, operators and precedence" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="add import math learning about math. module" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWithMoshi$main.coverage" NAME="main Coverage Results" MODIFIED="1757541025245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -166,7 +204,9 @@
     <SUITE FILE_PATH="coverage/PythonWithMoshi$String_methods.coverage" NAME="String_methods Coverage Results" MODIFIED="1757876905772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1757542221256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Strings_cont.coverage" NAME="Strings_cont Coverage Results" MODIFIED="1757847406741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWithMoshi$Arithmetic_Operations.coverage" NAME="Arithmetic_Operations Coverage Results" MODIFIED="1757877725730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Arithmetic_Operations.coverage" NAME="Arithmetic_Operations Coverage Results" MODIFIED="1757877987988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$useful_number_functions.coverage" NAME="useful_number_functions Coverage Results" MODIFIED="1757878301406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Inputs.coverage" NAME="Inputs Coverage Results" MODIFIED="1757543429132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$If_statements.coverage" NAME="If_statements Coverage Results" MODIFIED="1757879159473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
