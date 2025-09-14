@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Add learning about and or not">
-      <change afterPath="$PROJECT_DIR$/Comparison_operators.py" afterDir="false" />
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Add learning about &lt;&gt; == != etc">
+      <change afterPath="$PROJECT_DIR$/Exercise_weight_converter_programme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Arithmetic_Operations.executor": "Run",
     "Python.Comparison_operators.executor": "Run",
+    "Python.Exercise_weight_converter_programme.executor": "Run",
     "Python.Exercsie_Hello_World.executor": "Run",
     "Python.Formatted_strings.executor": "Run",
     "Python.If_statements.executor": "Run",
@@ -81,7 +82,7 @@
       <updated>1757520492394</updated>
       <workItem from="1757520505575" duration="3684000" />
       <workItem from="1757586490631" duration="1261000" />
-      <workItem from="1757846270358" duration="8500000" />
+      <workItem from="1757846270358" duration="9280000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -187,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757881283455</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add learning about &lt;&gt; == != etc">
+      <option name="closed" value="true" />
+      <created>1757881978679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757881978679</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +226,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add learing about if else and elif" />
     <MESSAGE value="Add learning about and or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add learning about and or not" />
+    <MESSAGE value="Add learning about &lt;&gt; == != etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add learning about &lt;&gt; == != etc" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercsie_Hello_World.coverage" NAME="Exercsie_Hello_World Coverage Results" MODIFIED="1757587532149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -229,6 +239,7 @@
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Formatted_strings.coverage" NAME="Formatted_strings Coverage Results" MODIFIED="1757847878978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1757543075102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Comparison_operators.coverage" NAME="Comparison_operators Coverage Results" MODIFIED="1757881908698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercise_weight_converter_programme.coverage" NAME="Exercise_weight_converter_programme Coverage Results" MODIFIED="1757882550394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Arithmetic_Operations.coverage" NAME="Arithmetic_Operations Coverage Results" MODIFIED="1757877987988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Strings_cont.coverage" NAME="Strings_cont Coverage Results" MODIFIED="1757847406741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Logical_operators.coverage" NAME="Logical_operators Coverage Results" MODIFIED="1757881218201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
