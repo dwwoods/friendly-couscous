@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Add completed exercise to remove duplicates from a list.">
-      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Learnign abouth Tuples  and there 2 methods.">
+      <change afterPath="$PROJECT_DIR$/Unpacking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,47 +39,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.2D_lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Arithmetic_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Car_Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Challenge_Nested_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comparison_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise_Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise_list_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise_weight_converter_programme.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercsie_Hello_World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Formatted_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Logical_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nested_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Strings_cont.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello_world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.useful_number_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.y_loops.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/woods/PycharmProjects/PythonWithMoshi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2D_lists.executor": "Run",
+    "Python.Arithmetic_Operations.executor": "Run",
+    "Python.Car_Game.executor": "Run",
+    "Python.Challenge_Nested_loops.executor": "Run",
+    "Python.Comparison_operators.executor": "Run",
+    "Python.Exercise_Lists.executor": "Run",
+    "Python.Exercise_list_methods.executor": "Run",
+    "Python.Exercise_weight_converter_programme.executor": "Run",
+    "Python.Exercsie_Hello_World.executor": "Run",
+    "Python.Formatted_strings.executor": "Run",
+    "Python.If_statements.executor": "Run",
+    "Python.Inputs.executor": "Run",
+    "Python.List_methods.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.Logical_operators.executor": "Run",
+    "Python.Nested_loops.executor": "Run",
+    "Python.String_methods.executor": "Run",
+    "Python.Strings_cont.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.Unpacking.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.hello_world.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.useful_number_functions.executor": "Run",
+    "Python.y_loops.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/woods/PycharmProjects/PythonWithMoshi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\woods\PycharmProjects\PythonWithMoshi" />
@@ -138,7 +139,7 @@
       <workItem from="1757953154143" duration="3386000" />
       <workItem from="1757967435576" duration="3281000" />
       <workItem from="1758020423928" duration="2888000" />
-      <workItem from="1758101797774" duration="374000" />
+      <workItem from="1758101797774" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -364,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758023162297</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Learnign abouth Tuples  and there 2 methods.">
+      <option name="closed" value="true" />
+      <created>1758102431583</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1758102431583</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat add hello word" />
     <MESSAGE value="Add Exercise with strings and floats" />
     <MESSAGE value="Add Strings_cont.py for more string and index exercies" />
     <MESSAGE value="Add Formatted_strings.py lesson on how to format strings using f''" />
@@ -407,7 +415,8 @@
     <MESSAGE value="Added .example methods to List_methods.py" />
     <MESSAGE value="intiial commit" />
     <MESSAGE value="Add completed exercise to remove duplicates from a list." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add completed exercise to remove duplicates from a list." />
+    <MESSAGE value="Learnign abouth Tuples  and there 2 methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learnign abouth Tuples  and there 2 methods." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWithMoshi$main.coverage" NAME="main Coverage Results" MODIFIED="1757541025245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -415,13 +424,13 @@
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Nested_loops.coverage" NAME="Nested_loops Coverage Results" MODIFIED="1757969250491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$y_loops.coverage" NAME="y_loops Coverage Results" MODIFIED="1757953822434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Challenge_Nested_loops.coverage" NAME="Challenge_Nested_loops Coverage Results" MODIFIED="1757969733064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWithMoshi$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1757970133239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Formatted_strings.coverage" NAME="Formatted_strings Coverage Results" MODIFIED="1757847878978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1757970133239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Comparison_operators.coverage" NAME="Comparison_operators Coverage Results" MODIFIED="1757881908698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercise_weight_converter_programme.coverage" NAME="Exercise_weight_converter_programme Coverage Results" MODIFIED="1757882888921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Car_Game.coverage" NAME="Car_Game Coverage Results" MODIFIED="1758020979320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWithMoshi$Arithmetic_Operations.coverage" NAME="Arithmetic_Operations Coverage Results" MODIFIED="1757877987988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercise_list_methods.coverage" NAME="Exercise_list_methods Coverage Results" MODIFIED="1758023014949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Arithmetic_Operations.coverage" NAME="Arithmetic_Operations Coverage Results" MODIFIED="1757877987988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Inputs.coverage" NAME="Inputs Coverage Results" MODIFIED="1757543429132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Exercsie_Hello_World.coverage" NAME="Exercsie_Hello_World Coverage Results" MODIFIED="1757587532149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1757542221256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -430,7 +439,9 @@
     <SUITE FILE_PATH="coverage/PythonWithMoshi$2D_lists.coverage" NAME="2D_lists Coverage Results" MODIFIED="1758021252546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$useful_number_functions.coverage" NAME="useful_number_functions Coverage Results" MODIFIED="1757878301406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$If_statements.coverage" NAME="If_statements Coverage Results" MODIFIED="1757879342048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Unpacking.coverage" NAME="Unpacking Coverage Results" MODIFIED="1758102611631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$List_methods.coverage" NAME="List_methods Coverage Results" MODIFIED="1758021976678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1758102385942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1757543075102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Strings_cont.coverage" NAME="Strings_cont Coverage Results" MODIFIED="1757847406741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Logical_operators.coverage" NAME="Logical_operators Coverage Results" MODIFIED="1757881218201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
