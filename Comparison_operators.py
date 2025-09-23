@@ -9,7 +9,7 @@
 #!= not equal
 #== exaclty
 
-name = input("What is your name?")
+name = input("What is your first_name?")
 
 print(len(name))
 
