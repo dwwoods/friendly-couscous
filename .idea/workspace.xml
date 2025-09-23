@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="intial commit Functions.py">
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="learn how functions and parameters relate refator name to first_name.">
+      <change afterPath="$PROJECT_DIR$/Keyword_arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Parameters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,7 @@
     "Python.Functions.executor": "Run",
     "Python.If_statements.executor": "Run",
     "Python.Inputs.executor": "Run",
+    "Python.Keyword_arguments.executor": "Run",
     "Python.List_methods.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Logical_operators.executor": "Run",
@@ -159,7 +160,7 @@
       <workItem from="1758020423928" duration="2888000" />
       <workItem from="1758101797774" duration="2922000" />
       <workItem from="1758183402524" duration="1931000" />
-      <workItem from="1758622100521" duration="305000" />
+      <workItem from="1758622100521" duration="1023000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -441,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758185327543</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="learn how functions and parameters relate refator name to first_name.">
+      <option name="closed" value="true" />
+      <created>1758622748095</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1758622748095</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +468,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add to Arithmetic_Operations.py floats, intergers, operators and precedence" />
     <MESSAGE value="add import math learning about math. module" />
     <MESSAGE value="Add learing about if else and elif" />
     <MESSAGE value="Add learning about and or not" />
@@ -484,7 +492,8 @@
     <MESSAGE value="Exercise complete - emoji converter using dictoinaries, with a for loop" />
     <MESSAGE value="Learn functions using simple greet_user" />
     <MESSAGE value="intial commit Functions.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="intial commit Functions.py" />
+    <MESSAGE value="learn how functions and parameters relate refator name to first_name." />
+    <option name="LAST_COMMIT_MESSAGE" value="learn how functions and parameters relate refator name to first_name." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -519,12 +528,13 @@
     <SUITE FILE_PATH="coverage/PythonWithMoshi$for_loops.coverage" NAME="for_loops Coverage Results" MODIFIED="1757968641334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$2D_lists.coverage" NAME="2D_lists Coverage Results" MODIFIED="1758021252546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$useful_number_functions.coverage" NAME="useful_number_functions Coverage Results" MODIFIED="1757878301406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWithMoshi$Parameters.coverage" NAME="Parameters Coverage Results" MODIFIED="1758622380329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Parameters.coverage" NAME="Parameters Coverage Results" MODIFIED="1758622671537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$If_statements.coverage" NAME="If_statements Coverage Results" MODIFIED="1757879342048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Unpacking.coverage" NAME="Unpacking Coverage Results" MODIFIED="1758102611631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$List_methods.coverage" NAME="List_methods Coverage Results" MODIFIED="1758021976678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1758102385942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1757543075102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Keyword_arguments.coverage" NAME="Keyword_arguments Coverage Results" MODIFIED="1758622938692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1758185142953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1758103168125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Strings_cont.coverage" NAME="Strings_cont Coverage Results" MODIFIED="1757847406741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
