@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="initial commit - exceptions.py">
+    <list default="true" id="ccc95925-7958-4c2f-8135-f30b24a51bd4" name="Changes" comment="Learn how to anticipate errors (exit code 1) with try except blocks">
+      <change afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "Python.Arithmetic_Operations.executor": "Run",
     "Python.Car_Game.executor": "Debug",
     "Python.Challenge_Nested_loops.executor": "Run",
+    "Python.Classes.executor": "Run",
     "Python.Comparison_operators.executor": "Run",
     "Python.Emoji_converter.executor": "Run",
     "Python.Exercise_Lists.executor": "Run",
@@ -83,6 +85,7 @@
     "Python.Tuples.executor": "Run",
     "Python.Unpacking.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.comments.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.for_loops.executor": "Run",
@@ -164,7 +167,7 @@
       <workItem from="1758101797774" duration="2922000" />
       <workItem from="1758183402524" duration="1931000" />
       <workItem from="1758622100521" duration="2183000" />
-      <workItem from="1758632656887" duration="632000" />
+      <workItem from="1758632656887" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="feat add hello word">
       <option name="closed" value="true" />
@@ -486,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758624288983</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Learn how to anticipate errors (exit code 1) with try except blocks">
+      <option name="closed" value="true" />
+      <created>1758633331501</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1758633331501</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Exercise_weight_converter_programme.py lbs to kgs using if else" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Refactor y_loops.py to while_loops.py. add guessing number game" />
     <MESSAGE value="Add for loops to for_loops.py" />
@@ -529,7 +539,8 @@
     <MESSAGE value="learn return statements" />
     <MESSAGE value="exercise return functions - make the emoji converter a function" />
     <MESSAGE value="initial commit - exceptions.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit - exceptions.py" />
+    <MESSAGE value="Learn how to anticipate errors (exit code 1) with try except blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn how to anticipate errors (exit code 1) with try except blocks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -545,7 +556,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWithMoshi$main.coverage" NAME="main Coverage Results" MODIFIED="1757541025245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$String_methods.coverage" NAME="String_methods Coverage Results" MODIFIED="1757876905772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$comments.coverage" NAME="comments Coverage Results" MODIFIED="1758633393100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Nested_loops.coverage" NAME="Nested_loops Coverage Results" MODIFIED="1757969250491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWithMoshi$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1758634625863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$y_loops.coverage" NAME="y_loops Coverage Results" MODIFIED="1757953822434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Challenge_Nested_loops.coverage" NAME="Challenge_Nested_loops Coverage Results" MODIFIED="1757969733064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWithMoshi$Emoji_converter.coverage" NAME="Emoji_converter Coverage Results" MODIFIED="1758184737855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
